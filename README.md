@@ -1,2 +1,2 @@
-# A-B-Testing-Drivalia-Pricing-
+# A-B-Testing-Bolt-Pricing-
 AB testing for revenue
